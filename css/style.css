@@ -1,0 +1,29 @@
+/* RESET */
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+body {
+    background-color: rgb(52, 52, 150);
+    text-align: center;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family:cursive;
+    font-size: 50px;
+    margin: 4rem;
+}
+.message-pswd {
+    background-color: rgb(127, 227, 255);
+    padding: 5rem;
+    color: white;
+    border-radius: 20px;
+    font-family:sans-serif;
+    margin-top: 5rem;
+    text-shadow: 5px 5px 4px rgb(9, 9, 116);
+}
